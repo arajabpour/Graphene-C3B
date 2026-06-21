@@ -1,1 +1,1 @@
-This repository contains the input files and processed data used in the study of interfacial thermal conductance in graphene–C3B heterostructures. The dataset includes LAMMPS input files, raw and processed numerical data
+This repository contains the input files and processed data used in the study of interfacial thermal conductance in graphene–C3B heterostructures. The dataset includes LAMMPS input files for nonequilibrium molecular dynamics (NEMD) simulations, GPUMD input files for spectral heat flux (SHF) calculations
